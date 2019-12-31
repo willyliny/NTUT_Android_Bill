@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--自定義顏色-->
+
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="white">#FFFFFF</color>
+    <color name="darken">#333333</color>
+    <color name="deep_darken">#222222</color>
+    <color name="cloud">#f9f9f9</color>
+    <color name="silver">#BDC3C7</color>
+    <color name="red">#E74C3C</color>
+    <color name="dark_red">#C0392B</color>
+    <color name="blue">#3498DB</color>
+    <color name="dark_purple">#8e44ad</color>
+    <color name="orange">#E67E22</color>
+    <color name="dark_orange">#D35400</color>
+    <color name="course_color">#03a9f4</color>
+    <color name="calendar_color">#E67E22</color>
+    <color name="event_color">#E74C3C</color>
+    <color name="portal_color">#3498DB</color>
+    <color name="other_color">#2980B9</color>
+    <color name="credit_color">#fb9a2b</color>
+    <color name="account_color">#09c</color>
+    <color name="map_color">#690</color>
+    <color name="store_color">#c00</color>
+    <color name="feedback_color">#683bb7</color>
+    <color name="setting_color">#fb3</color>
+    <color name="about_color">#33b5e5</color>
+</resources>

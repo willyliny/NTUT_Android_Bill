@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CalenderFragment">
+
+    <!--    當在主頁時，選擇了"Calender"，其底下則會顯示出Calender的Fragment-->
+
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="行事曆" />
+
+    <Button
+        android:id="@+id/switch_c"
+        android:layout_width="139dp"
+        android:layout_height="104dp"
+        android:text="Button" />
+
+</FrameLayout>
